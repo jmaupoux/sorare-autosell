@@ -1,0 +1,3 @@
+interface BuyTransaction {
+    blockchainId: string;
+}
