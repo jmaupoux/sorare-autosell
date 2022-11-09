@@ -1,5 +1,5 @@
 # Sorare auto sell
-Automatically resell your cards (football & baseball) when expired on the market.
+Automatically resell your cards (football & baseball & nba) when expired on the market.
 
 Sell again at previous price.
 
